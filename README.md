@@ -35,10 +35,20 @@ Libraries: FPDF (for PDF generation)
 Server: XAMPP/Apache (Localhost)
 
 How to set in Local Serve->
+
 Download ZIP File
 Extrect File
 Copy ecommerce Folder and Paste "C:\xampp\htdocs"
 Start in xampp apache server and mySQL
+open browser and run(localhost/ecommerce/setup.php)
+if show msz "database created successfully".
+then enjoy.
+
+
+else
+
+
+
 open "admin" of mySQL in xampp
 go to import section and then import .SQL(ecommerce/mysql/ecommerce1.sql) in xampp.
 after open any browser and type (localhost/ecoomerce/)
