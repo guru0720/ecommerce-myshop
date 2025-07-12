@@ -34,7 +34,7 @@ Libraries: FPDF (for PDF generation)
 
 Server: XAMPP/Apache (Localhost)
 
-How to set in Local Serve->
+How to set in Local Server->
 
 Download ZIP File
 Extrect File
